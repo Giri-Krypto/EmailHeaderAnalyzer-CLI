@@ -4,7 +4,7 @@ This tool is a CLI version of EH[Email Header]-Analyzer with the integration of 
 
 ## How To Install
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
