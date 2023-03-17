@@ -6,7 +6,7 @@ This tool is a CLI version of EH[Email Header]-Analyzer with the integration of 
 ```
 pip install -r requirements.txt
 ```
-
+##Remeber to install Nmap in the device to use the Port scanning feature 
 
 ## How To Run
 
